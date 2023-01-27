@@ -31,6 +31,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+## Demo
+
+![alt text](demo1.jpg)
+
 
 ## Tech Stack : React, RapidAPI, MaterialUI
 
